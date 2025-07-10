@@ -1,3 +1,5 @@
+# Führt die beiden NLP-DataFrames zu einem zusammen
+
 import os
 import pandas as pd
 

@@ -39,6 +39,10 @@ def load_column(filepath: Path, col: str) -> Series:
 
 
 def summarization(ser: Series) -> Series:
+    """
+    Führt eine Text summarization als Vorarbeit für Sentiment Analysis durch. Allerdings nur für Texte mit einer
+    Token.Länge von über 400 Tokens.
+    """
 
     logger.info("Summarization durchführen...")
 

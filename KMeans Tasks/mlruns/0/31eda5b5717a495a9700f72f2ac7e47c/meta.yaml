@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/achim/Desktop/OSMI_Mental_Health/KMeans%20Tasks/mlruns/0/31eda5b5717a495a9700f72f2ac7e47c/artifacts
+end_time: 1752084488454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31eda5b5717a495a9700f72f2ac7e47c
+run_name: UMAP + KMeans Clustering + featuretools
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752083444974
+status: 4
+tags: []
+user_id: achim
