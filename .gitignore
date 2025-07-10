@@ -1,0 +1,47 @@
+# ▶️ Bytecode-Dateien
+__pycache__/
+*.py[cod]
+
+# ▶️ Temporäre Dateien
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ▶️ Python Distribution / Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# ▶️ Virtuelle Umgebungen
+.env
+.venv/
+env/
+venv/
+
+# ▶️ OS-spezifisch
+.DS_Store
+Thumbs.db
+
+# ▶️ IDEs und Editoren
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ▶️ Test-Cache / Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
